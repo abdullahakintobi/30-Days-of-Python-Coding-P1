@@ -5,4 +5,3 @@ for i in range(1, 1000):
 def notion(x, y):
     result = (x * y)/(x + y)
     return result
-    end
